@@ -5,6 +5,10 @@ Due to file size upload limits, there are various zip files.
 If you want the executable program software files, then head to the archive site:
 https://archive.org/details/@bccrss2015
 
+https://www.facebook.com/reel/885807123806364
+
+https://archive.org/download/master-upgrade-truthengine-925-x-10-fixedscreen_202512/TheTruthEngineX_Master.zip
+
 The structure of the general project folder and final 'sounds' folder once all is downloaded should be:
 
  TruthEngineX: (main folder)
